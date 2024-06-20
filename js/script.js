@@ -3,7 +3,7 @@ ad=prompt("Adınızı girin:");
 document.write(ad);
 console.log(ad);*/
 
-/*Ekrandan alınan iki sayının toplamını bul
+/*Örnek:Ekrandan alınan iki sayının toplamını bul
 var a,b,toplam;
 a= Number(prompt("1.sayı gir:"));
 b=Number(prompt("2.sayı gir:"));
@@ -39,11 +39,11 @@ alan=uzun*kisa;
 cevre=(uzun+kisa)*2;
 alert("Çevre:"+cevre+" Alan"+alan);  */
 
-//Örnek:Dairenin alanını ve çevresini hesaplama
+/*Örnek:Dairenin alanını ve çevresini hesaplama
 var r,alan,cevre;
 const pi=3.14;
 r=Number(prompt("Yarıçap giriniz:"));
 alan=pi*r*r;
 cevre=2*pi*r;
-alert("Çevre:"+cevre+" Alan"+alan);
+alert("Çevre:"+cevre+" Alan"+alan); */
 
