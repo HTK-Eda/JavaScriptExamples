@@ -9,6 +9,7 @@ else{
     alert("Sayı pozitif değil. Yeni sayı giriniz");
 }  */
 
+
 /*Örnek:Girilen iki sayının durumunu bulan program
 var num1,num2,buyuk;
 num1=Number(prompt("1.sayı:"));
@@ -23,6 +24,7 @@ else{
     alert("İki sayı birbirine eşit");
 }   */
 
+
 /*Örnek:Not ortalaması 50 altında ise kaldı değilse geçti yazdıran program
 var not1,not2,ort;
 not1=Number(prompt("Vize notu:"));
@@ -34,6 +36,8 @@ if(ort<50){
 else{
     alert("Geçti Ort:"+ort);
 }   */
+
+
 /*Örnek:Hava sıcaklığını derecelendiren uygulama
 var sicaklik;
 sicaklik=Number(prompt("Haca sıcaklığını giriniz:"));
